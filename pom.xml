@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>SpringMVC-Demo-01</module>
+        <module>SpringMVC-Demo-02</module>
     </modules>
     <packaging>pom</packaging>
 
