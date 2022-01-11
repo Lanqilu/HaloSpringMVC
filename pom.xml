@@ -11,6 +11,7 @@
         <module>SpringMVC-Demo-01</module>
         <module>SpringMVC-Demo-02</module>
         <module>SpringMVC-Demo-03</module>
+        <module>SpringMVC-Demo-04</module>
     </modules>
     <packaging>pom</packaging>
 
